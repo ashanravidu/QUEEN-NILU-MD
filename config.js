@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;VzYxEKRI#-c3Li3IuKbDZcYB0fO60ujHAqUi5BTT2TlCLpRRIDH4' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://ashan_1imr_user:HaQ7N6GOQUkOPNtJA3UCVv6MxaBU77F2@dpg-cld2pafgsrdc73fib5h0-a/ashan_1imr'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94740557831'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'ashan_X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,7 +41,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'ashan'
 
 global.FOOTER = 'Queen Nilu 2023'
 
@@ -71,7 +71,7 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/EymFNPxEnbF2z7vKxKtQ9h' // ur group link
 
 
 /* 18 + Download Settings */
